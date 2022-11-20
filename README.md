@@ -8,4 +8,4 @@
 
 ![f1napl](https://github.com/f1napl/f1napl/blob/main/a_60a98c0c6ab6aeb5976665629b0439f1(1).gif)
 
-That`s all
+-That`s all
