@@ -1,4 +1,4 @@
-### Hi there 👋
+### Some about me
 
 <!--
 **f1napl/f1napl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
